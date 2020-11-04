@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\BigTest\EclipseAlgorithm\.metadata\.plugins\org.eclipse.jdt.core
+501154440.index
+2975814660.index
+1729415583.index
